@@ -7,5 +7,5 @@ if [ $COMMENT_BLOCK ];then
 fi
 
 echo   > /dev/null <<01890480189041
-afjoajoajioj
+我是注释
 01890480189041
